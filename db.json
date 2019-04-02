@@ -1,4 +1,66 @@
 {
+  cs:[
+  {
+    "active": true,
+    "id": "291ad68d-74b3-41cf-b65f-dc0f365ef1d6",
+    "phone": null,
+    "name": "T&D SOLUTIONS"
+  },
+  {
+    "active": true,
+    "id": "3256fd28-653a-4688-a791-5a423d749547",
+    "phone": null,
+    "name": "TALQUIN ELECTRIC"
+  },
+  {
+    "active": true,
+    "id": "7ec73d78-9368-427e-afee-643f480de247",
+    "phone": null,
+    "name": "TAMPA ELEC."
+  },
+  {
+    "active": true,
+    "id": "d5c480c6-02ba-4cee-a9a1-c77e1cfdacc2",
+    "phone": null,
+    "name": "TAUNTON MUNICIPAL"
+  },
+  {
+    "active": true,
+    "id": "3efa1f5f-41b1-44fb-b6b7-5596e3b21c36",
+    "phone": null,
+    "name": "TEAM FISHEL"
+  },
+  {
+    "active": true,
+    "id": "7b053106-31a9-45da-a5db-43018fd02efc",
+    "phone": null,
+    "name": "TELCOM"
+  },
+  {
+    "active": true,
+    "id": "b2908127-f703-470a-bf90-6577d1949f63",
+    "phone": null,
+    "name": "TELCOM CONSTRUCTION"
+  },
+  {
+    "active": true,
+    "id": "b1a431b9-83eb-4766-b0cf-bac3a1dbc728",
+    "phone": "(844)373-0319",
+    "name": "Telecable Inc."
+  },
+  {
+    "active": true,
+    "id": "7b520738-8c8e-45d6-b410-1a76bbb12f09",
+    "phone": "(816)901-4839",
+    "name": "Tennessee Valley Public Power Association Inc."
+  },
+  {
+    "active": true,
+    "id": "8d74d16d-37c5-45c1-9ac4-e954d731af0f",
+    "phone": "(456)678-7654",
+    "name": "test"
+  }
+],
   "customer" : [
   {
     "active": true,
